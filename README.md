@@ -60,3 +60,7 @@ UNet-R is a modified version of the original UNet architecture, incorporating re
 
 ## Research Poster:
 ![alt text](https://github.com/Amadeo0312/Automated-Mandible-Segmentation/blob/main/ReadMe-Images/poster.jpg)
+
+
+## Researchers
+![alt text](https://github.com/Amadeo0312/Automated-Mandible-Segmentation/blob/main/ReadMe-Images/researchers.jpg)
