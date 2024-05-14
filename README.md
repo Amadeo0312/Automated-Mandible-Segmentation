@@ -2,9 +2,9 @@
 ![alt text](https://github.com/Amadeo0312/Automated-Mandible-Segmentation/blob/main/ReadMe-Images/introduction.png)
 ## How to Use:
 
-  ### UNet-R
+  ### 2D UNet
 
-Follow these steps to set up and run the UNet-R project:
+Follow these steps to set up and run the 2D UNet project:
 
 1. **Install the requirements**  
    Use the command below to install the necessary libraries from the requirements file:
@@ -24,9 +24,9 @@ Start the training process by running the following command:
 
 
 
- ### 2D UNet
+ ### UNet-R
 
-Follow these steps to set up and run the 2D UNet project:
+Follow these steps to set up and run the UNet-R project:
 
 1. **Install the requirements**  
    Use the command below to install the necessary libraries from the requirements file:
