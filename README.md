@@ -13,8 +13,8 @@ Follow these steps to set up and run the UNet-R project:
   ```
 3. **Prepare your data**  
 Place your Head and Neck CT Scans into the appropriate directories:
-- Images: `UNet-R/Input/images`
-- Masks for the images: `UNet-R/Input/masks`
+- Images: `2D UNet/Input/images`
+- Masks for the images: `2D UNet/Input/masks`
 
 3. **Train the model**  
 Start the training process by running the following command:
