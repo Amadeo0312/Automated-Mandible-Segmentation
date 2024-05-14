@@ -1,6 +1,5 @@
 # Automated-Mandible-Segmentation
 ![alt text](https://github.com/Amadeo0312/Automated-Mandible-Segmentation/blob/main/ReadMe-Images/introduction.png)
-![alt text](https://github.com/Amadeo0312/Automated-Mandible-Segmentation/blob/main/ReadMe-Images/poster.jpg)
 ## How to Use:
 
   ### 2D UNet
@@ -44,3 +43,20 @@ Start the training process by running the following command:
 ```sh
    python train.py
 ```
+
+### Sample Data
+
+
+## Architecture:
+### 2D UNet
+The 2D UNet is a convolutional neural network architecture designed for precise image segmentation, featuring a distinctive U-shaped structure with skip connections that enable detailed analysis with fewer training samples, particularly in medical imaging.
+![alt text](https://github.com/Amadeo0312/Automated-Mandible-Segmentation/blob/main/ReadMe-Images/2dUnet.jpg)
+
+### UNet-R
+UNet-R is a modified version of the original UNet architecture, incorporating residual connections to improve learning and performance in deep networks for more accurate biomedical image segmentation.
+![alt text](https://github.com/Amadeo0312/Automated-Mandible-Segmentation/blob/main/ReadMe-Images/Unet-r.png)
+
+
+
+## Research Poster:
+![alt text](https://github.com/Amadeo0312/Automated-Mandible-Segmentation/blob/main/ReadMe-Images/poster.jpg)
