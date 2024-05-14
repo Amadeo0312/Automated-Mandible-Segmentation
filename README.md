@@ -18,4 +18,7 @@ Place your Head and Neck CT Scans into the appropriate directories:
 
 3. **Train the model**  
 Start the training process by running the following command:
-python train.py
+```sh
+   python train.py
+```
+
