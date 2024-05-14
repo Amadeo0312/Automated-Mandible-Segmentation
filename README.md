@@ -8,12 +8,13 @@ Follow these steps to set up and run the UNet-R project:
 
 1. **Install the requirements**  
    Use the command below to install the necessary libraries from the requirements file:
+  pip install -r requirements.txt
 
-2. **Prepare your data**  
+3. **Prepare your data**  
 Place your Head and Neck CT Scans into the appropriate directories:
 - Images: `UNet-R/Input/images`
 - Masks for the images: `UNet-R/Input/masks`
 
 3. **Train the model**  
 Start the training process by running the following command:
-`python train.py`
+python train.py
