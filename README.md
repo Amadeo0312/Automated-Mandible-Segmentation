@@ -45,7 +45,7 @@ Start the training process by running the following command:
 ```
 
 ### Sample Data
-![alt text](https://github.com/Amadeo0312/Automated-Mandible-Segmentation/blob/main/ReadMe-Images/Sample%20Data.png) { width: 200px; }
+![alt text](https://github.com/Amadeo0312/Automated-Mandible-Segmentation/blob/main/ReadMe-Images/Sample%20Data.png)
 
 ## Architecture:
 ### 2D UNet
