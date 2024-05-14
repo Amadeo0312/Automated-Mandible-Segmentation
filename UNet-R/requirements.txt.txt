@@ -1,0 +1,5 @@
+numpy>=1.21.0
+opencv-python>=4.5.2
+tqdm>=4.59.0
+tensorflow>=2.5.0
+patchify>=0.2.3
